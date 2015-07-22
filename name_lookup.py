@@ -1,4 +1,4 @@
-#!usr/bin/python
+#!//anaconda/bin/python
 __author__ = 'xiaoyazi'
 """Happy coding"""
 
